@@ -1,0 +1,15 @@
+{
+	"name": "ADFTrainingoct24",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ea15701-8440-44c5-bc40-fa6575ff8741",
+		"tenantId": "a6f43d65-15be-4c87-ae92-30e7f8517436"
+	}
+}
